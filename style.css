@@ -67,6 +67,7 @@ body {
 .budget__expenses {
     padding: 12px;
     text-transform: uppercase;
+    border-radius: 4px;
 }
 
 .budget__income {
@@ -134,6 +135,7 @@ body {
     margin-right: 10px;
     font-weight: 300;
     transition: border 0.3s;
+    border-radius: 5px;
 }
 
 .add__description,
@@ -170,7 +172,7 @@ body {
 .add__description:focus,
 .add__value:focus {
     outline: none;
-    border: 1px solid #28B9B5;
+    border: 1px solid #18B9B5;
 }
 
 .add__btn:focus { outline: none; }
@@ -179,17 +181,20 @@ body {
 .container {
     width: 1000px;
     margin: 60px auto;
+    border-radius: 30px;
 }
 
 .income {
     float: left;
     width: 475px;
     margin-right: 50px;
+    color: #18B9B5;
 }
 
 .expenses {
     float: left;
     width: 475px;
+    color: #FF5049;
 }
 
 h2 {
