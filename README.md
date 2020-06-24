@@ -6,3 +6,6 @@ JavaScript tool to manager your incomes and expenses using your desktop.
 
 [Expenses manager](https://gabrielmxavier.github.io/Javascript-expenses-manager/)
 
+## Project overview
+
+adsada
